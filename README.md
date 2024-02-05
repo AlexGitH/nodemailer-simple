@@ -15,8 +15,9 @@ You’ll need to have **two-step verification** enabled on your Gmail account 
 7. **App name**: Enter a custom name for this App Password. It helps you identify it later, so choose something related to the application or use case where you plan to use this App Password.
 8. **Create**: Click the “Create” button. Google will create a unique 16-character App Password for your custom application/device.
 
-
 ## How to start
+
+> NOTE: Environmental variables EMAIL refers to the sender email and APP_PASSWORD - to 16 character code from Google
 
 ```sh
 # copy config example
